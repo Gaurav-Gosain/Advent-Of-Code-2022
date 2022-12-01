@@ -13,6 +13,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"sort"
 	"strconv"
 	"strings"
 )
@@ -33,13 +34,9 @@ func main() {
 	}
 
 	//? sort sum_list
-	for i := 0; i < len(data); i++ {
-		for j := i + 1; j < len(data); j++ {
-			if data[i] < data[j] {
-				data[i], data[j] = data[j], data[i]
-			}
-		}
-	}
+	sort.Slice(data, func(i, j int) bool {
+		return data[i] > data[j]
+	})
 
 	//? Part 1
 	fmt.Println("Part 1: ", data[0])
