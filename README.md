@@ -8,6 +8,4 @@ This repository is a collection of my coding attempts at solving the daily chall
 
 Solutions:
 
-- [Day 1](./day_1/solution.ipynb)
-
-
+- Day 1 - [Python](./day_1/solution.ipynb) · [Go](./day_1/solution.go)
