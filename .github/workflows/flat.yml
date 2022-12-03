@@ -27,4 +27,7 @@ jobs:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: aoc_hw_tech_club_private_leaderboard.json
           axios_config: /tmp/query.json
+      - name: Pretty print
+        run: |
+          cat aoc_hw_tech_club_private_leaderboard.json | jq . > aoc_hw_tech_club_private_leaderboard_pretty.json
 
