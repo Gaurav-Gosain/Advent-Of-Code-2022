@@ -27,3 +27,6 @@ jobs:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: leaderboad.json
           axios_config: query.json
+      - name: Cleanup Query Config
+        run: rm query.json
+
