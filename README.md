@@ -18,6 +18,4 @@ Code to join the Heriot-Watt Universities Tech Club leaderboard
 
 ### Leaderboard
 
-![Leaderboard](leaderboard.html)
-
-
+<a href="/leaderboard.html">Link to Leaderboard (JSON)</a>
