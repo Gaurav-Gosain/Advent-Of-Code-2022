@@ -10,3 +10,5 @@ Solutions:
 
 - Day 1 - [Python](./day_1/solution.ipynb) · [Go](./day_1/solution.go)
 - Day 2 - [Python (Naive)](./day_2/solution.ipynb) · [Python (Optimized)](./day_2/solution.py)
+- Day 3 - [Python](./day_3/solution.ipynb)
+
