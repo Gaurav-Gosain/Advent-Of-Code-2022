@@ -25,6 +25,6 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
-          downloaded_filename: leaderboad.json
+          downloaded_filename: aoc_hw_tech_club_private_leaderboard.json
           axios_config: /tmp/query.json
 
