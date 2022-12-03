@@ -10,17 +10,17 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: "Create axios config"
-        env: 
-          COOKIE: ${{ secrets.COOKIE }}
-        run: |
-              echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > $RUNNER_TEMP/query.json
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.10.x
       - name: Check out repo
         uses: actions/checkout@v2
+      - name: "Create axios config"
+        env: 
+          COOKIE: ${{ secrets.COOKIE }}
+        run: |
+              echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > $RUNNER_TEMP/query.json
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
