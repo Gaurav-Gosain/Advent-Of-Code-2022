@@ -29,5 +29,5 @@ jobs:
           axios_config: query.json
       - name: Clean-up Query Config
         run: |
-              echo "{ \"headers\": {  \"Cookie\": \"session=COOKIE_GOES_HERE\" } }" > query.json
+              echo "Axios Query Goes here :D" > query.json
 
