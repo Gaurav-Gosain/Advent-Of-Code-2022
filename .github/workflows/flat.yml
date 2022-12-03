@@ -27,11 +27,9 @@ jobs:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: aoc_hw_tech_club_private_leaderboard.json
           axios_config: /tmp/query.json
-      - name: Pretty print
-        uses: "finnp/create-file-action@master"
-          env:
-            FILE_NAME: "aoc_hw_tech_club_private_leaderboard_pretty.json"
-            FILE_DATA: ""
-        run: |
-          touch aoc_hw_tech_club_private_leaderboard_pretty.json;cat aoc_hw_tech_club_private_leaderboard.json | jq > aoc_hw_tech_club_private_leaderboard_pretty.json
+      - uses: "finnp/create-file-action@master"
+        env:
+          FILE_NAME: "aoc_hw_tech_club_private_leaderboard_pretty.json"
+          FILE_DATA: |
+                    touch aoc_hw_tech_club_private_leaderboard_pretty.json;cat aoc_hw_tech_club_private_leaderboard.json | jq
 
