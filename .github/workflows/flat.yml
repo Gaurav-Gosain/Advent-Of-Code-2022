@@ -10,6 +10,11 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+    - name: 'Create StatsNZ axios config'
+      env:
+        COOKIE: ${{ secrets.COOKIE }}
+      run: |
+            echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > $RUNNER_TEMP/query.json
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:

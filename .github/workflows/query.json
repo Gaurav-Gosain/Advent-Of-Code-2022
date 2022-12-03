@@ -1,7 +1,0 @@
-{
-  "method": "POST",
-  "url": "https://adventofcode.com/2022/leaderboard/private/view/2473134.json",
-  "headers": {
-    "Cookie": "session=${{ secrets.COOKIE }}"
-  }
-}
