@@ -12,7 +12,7 @@ Solutions:
 
 
 Code to join the Heriot-Watt Universities Tech Club leaderboard 
-> **2473134-d6bfe471**
+> # **2473134-d6bfe471**
 
 ### Leaderboard
 
