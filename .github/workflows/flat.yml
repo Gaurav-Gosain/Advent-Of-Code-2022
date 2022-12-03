@@ -10,7 +10,9 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: "Create StatsNZ axios config"
+      - name: "Create axios config"
+        run:
+          echo "Creating Axios Config"
         env: 
           COOKIE: ${{ secrets.COOKIE }}
         run: |
@@ -26,4 +28,4 @@ jobs:
         with:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: leaderboad.json
-          axios_config: $RUNNER_TEMP/query.json
+          axios_config: query.json
