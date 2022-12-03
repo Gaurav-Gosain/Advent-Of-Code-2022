@@ -27,7 +27,7 @@ jobs:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: leaderboad.json
           axios_config: query.json
-      - name: Cleanup Query Config
+      - name: Clean-up Query Config
         run: |
               echo "{ \"headers\": {  \"Cookie\": \"session=COOKIE_GOES_HERE\" } }" > query.json
 
