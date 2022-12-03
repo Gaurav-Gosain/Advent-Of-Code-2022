@@ -21,4 +21,4 @@ jobs:
         with:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: leaderboad.json
-          axios_config: "{method: \'POST\',url: \'https://adventofcode.com/2022/leaderboard/private/view/2473134.json\',headers: {Cookie:\'session=${{ secrets.COOKIE }}\'}}"
+          axios_config: query.json
