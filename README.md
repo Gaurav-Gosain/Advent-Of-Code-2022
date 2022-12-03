@@ -13,7 +13,7 @@ Solutions:
 - Day 3 - [Python](./day_3/solution.ipynb)
 
 
-Code to join the Heriot-Watt Universitys Tech Club leaderboard 
+Code to join the Heriot-Watt Universities Tech Club leaderboard 
 > **2473134-d6bfe471**
 
 
