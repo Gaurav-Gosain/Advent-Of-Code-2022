@@ -11,8 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Create axios config"
-        run:
-          echo "Creating Axios Config"
         env: 
           COOKIE: ${{ secrets.COOKIE }}
         run: |
