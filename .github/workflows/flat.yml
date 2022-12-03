@@ -14,7 +14,7 @@ jobs:
         env: 
           COOKIE: ${{ secrets.COOKIE }}
         run: |
-        echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > $RUNNER_TEMP/query.json
+              echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > $RUNNER_TEMP/query.json
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
