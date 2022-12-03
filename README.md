@@ -18,4 +18,4 @@ Code to join the Heriot-Watt Universities Tech Club leaderboard
 
 ### Leaderboard
 
-<a href="/leaderboard.html">Link to Leaderboard (JSON)</a>
+<a href="https://gaurav-gosain.github.io/Advent-Of-Code-2022/leaderboard.html">Link to Leaderboard (JSON)</a>
