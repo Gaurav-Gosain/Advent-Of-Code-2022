@@ -16,4 +16,8 @@ Solutions:
 Code to join the Heriot-Watt Universities Tech Club leaderboard 
 > **2473134-d6bfe471**
 
+### Leaderboard
 
+<div style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+    <img src="leaderboard.svg" alt="Leaderboard" style="width: 100%; height: 100%; object-fit: contain;"/>
+</div>
