@@ -29,5 +29,5 @@ jobs:
           axios_config: /tmp/query.json
       - name: Pretty print
         run: |
-          cat aoc_hw_tech_club_private_leaderboard.json | jq . > aoc_hw_tech_club_private_leaderboard_pretty.json
+          cat aoc_hw_tech_club_private_leaderboard.json | jq
 
