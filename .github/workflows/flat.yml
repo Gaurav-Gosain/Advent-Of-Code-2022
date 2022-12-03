@@ -20,14 +20,14 @@ jobs:
         env: 
           COOKIE: ${{ secrets.COOKIE }}
         run: |
-              echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > query.json
+              echo "{ \"headers\": {  \"Cookie\": \"session=$COOKIE\" } }" > /temp/query.json
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
           http_url: https://adventofcode.com/2022/leaderboard/private/view/2473134.json
           downloaded_filename: leaderboad.json
-          axios_config: query.json
+          axios_config: /tmp/query.json
       - name: Clean-up Query Config
         run: |
-              echo "Axios Query Goes here :D" > query.json
+              rm -rf /tmp
 
