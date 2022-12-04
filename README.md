@@ -5,15 +5,15 @@ This repository is a collection of my coding attempts at solving the daily chall
 
 ### Solutions
 
-- [x] `Day  1` - [Python](./day_1/solution.ipynb) · [Go](./day_1/solution.go)
-- [x] `Day  2` - [Python (Naive)](./day_2/solution.ipynb) · [Python (Optimized)](./day_2/solution.py)
-- [x] `Day  3` - [Python](./day_3/solution.ipynb)
-- [x] `Day  4` - [Python](./day_4/solution.ipynb)
-- [ ] `Day  5` 
-- [ ] `Day  6` 
-- [ ] `Day  7` 
-- [ ] `Day  8` 
-- [ ] `Day  9` 
+- [x] `Day 01` - [Python](./day_1/solution.ipynb) · [Go](./day_1/solution.go)
+- [x] `Day 02` - [Python (Naive)](./day_2/solution.ipynb) · [Python (Optimized)](./day_2/solution.py)
+- [x] `Day 03` - [Python](./day_3/solution.ipynb)
+- [x] `Day 04` - [Python](./day_4/solution.ipynb)
+- [ ] `Day 05` 
+- [ ] `Day 06` 
+- [ ] `Day 07` 
+- [ ] `Day 08` 
+- [ ] `Day 09` 
 - [ ] `Day 10` 
 - [ ] `Day 11` 
 - [ ] `Day 12` 
