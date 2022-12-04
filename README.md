@@ -9,6 +9,7 @@ Solutions:
 - Day 1 - [Python](./day_1/solution.ipynb) · [Go](./day_1/solution.go)
 - Day 2 - [Python (Naive)](./day_2/solution.ipynb) · [Python (Optimized)](./day_2/solution.py)
 - Day 3 - [Python](./day_3/solution.ipynb)
+- Day 3 - [Python](./day_4/solution.ipynb)
 
 
 Code to join the Heriot-Watt Universities Tech Club leaderboard 
@@ -17,3 +18,6 @@ Code to join the Heriot-Watt Universities Tech Club leaderboard
 ### Leaderboard
 
 <a href="https://gaurav-gosain.github.io/Advent-Of-Code-2022/leaderboard" target="_blank">Link to Leaderboard (JSON)</a>
+
+
+
