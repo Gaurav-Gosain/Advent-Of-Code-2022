@@ -4,7 +4,7 @@
   href="{{ site.favicon | relative_url }}"
 />
 
-<div style="position: fixed; top: 19px; left: 19px">
+<div className="head">
   <a href="https://github.com/Gaurav-Gosain/Advent-Of-Code-2022">
     <img
       class="gh-logo"
@@ -25,5 +25,10 @@
   }
   .gh-logo {
     filter: invert(var(--logo-filter));
+  }
+  .head {
+    position: fixed;
+    top: 19px;
+    left: 19px;
   }
 </style>
