@@ -6,7 +6,7 @@ This repository is a collection of my coding attempts at solving the daily chall
 ### Solutions
 
 |                                     Solution(s)                                      |   Day    |
-| :-: | :-: |
+| :----------------------------------------------------------------------------------: | :------: |
 |             [Python](./day_1/solution.ipynb) · [Go](./day_1/solution.go)             | `Day 01` |
 | [Python (Naive)](./day_2/solution.ipynb) · [Python (Optimized)](./day_2/solution.py) | `Day 02` |
 |                           [Python](./day_3/solution.ipynb)                           | `Day 03` |
