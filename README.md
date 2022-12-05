@@ -32,7 +32,8 @@ This repository is a collection of my coding attempts at solving the daily chall
 |                                    Coming Soon...                                    | `Day 23` |
 |                                    Coming Soon...                                    | `Day 24` |
 |                                    Coming Soon...                                    | `Day 25` |
-|         ### Code to join the Heriot-Watt Universities Tech Club leaderboard          |
+
+### Code to join the Heriot-Watt Universities Tech Club leaderboard          
 > # ```2473134-d6bfe471```
 
 ### Leaderboard
