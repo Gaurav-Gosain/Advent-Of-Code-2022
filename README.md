@@ -12,7 +12,7 @@ This repository is a collection of my coding attempts at solving the daily chall
 |                           [Python](./day_3/solution.ipynb)                           | `Day 03` |
 |                           [Python](./day_4/solution.ipynb)                           | `Day 04` |
 |                           [Python](./day_5/solution.ipynb)                           | `Day 05` |
-|                                    Coming Soon...                                    | `Day 06` |
+|                           [Python](./day_6/solution.ipynb)                           | `Day 06` |
 |                                    Coming Soon...                                    | `Day 07` |
 |                                    Coming Soon...                                    | `Day 08` |
 |                                    Coming Soon...                                    | `Day 09` |
