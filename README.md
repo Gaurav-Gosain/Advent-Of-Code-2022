@@ -40,3 +40,4 @@ This repository is a collection of my coding attempts at solving the daily chall
 
 <a href="https://gaurav-gosain.github.io/Advent-Of-Code-2022/leaderboard" target="_blank">Link to Leaderboard (JSON)</a>
 
+---
