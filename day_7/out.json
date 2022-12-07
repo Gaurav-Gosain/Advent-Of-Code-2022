@@ -1,0 +1,1148 @@
+{
+  "name": "/",
+  "size": 40389918,
+  "subdirs": [
+    {
+      "name": "bnl",
+      "size": 4283758,
+      "subdirs": [
+        {
+          "name": "dhw",
+          "size": 237421,
+          "subdirs": [],
+          "path": "/bnl/dhw"
+        },
+        {
+          "name": "dmpsnhdh",
+          "size": 2089974,
+          "subdirs": [
+            {
+              "name": "chf",
+              "size": 573029,
+              "subdirs": [
+                {
+                  "name": "zfgznbz",
+                  "size": 350983,
+                  "subdirs": [],
+                  "path": "/bnl/dmpsnhdh/chf/zfgznbz"
+                }
+              ],
+              "path": "/bnl/dmpsnhdh/chf"
+            },
+            {
+              "name": "mjpbhjm",
+              "size": 1375812,
+              "subdirs": [
+                {
+                  "name": "crf",
+                  "size": 497521,
+                  "subdirs": [],
+                  "path": "/bnl/dmpsnhdh/mjpbhjm/crf"
+                },
+                {
+                  "name": "hqnj",
+                  "size": 339702,
+                  "subdirs": [],
+                  "path": "/bnl/dmpsnhdh/mjpbhjm/hqnj"
+                },
+                {
+                  "name": "lmw",
+                  "size": 50307,
+                  "subdirs": [],
+                  "path": "/bnl/dmpsnhdh/mjpbhjm/lmw"
+                }
+              ],
+              "path": "/bnl/dmpsnhdh/mjpbhjm"
+            },
+            {
+              "name": "zwhpwp",
+              "size": 141133,
+              "subdirs": [],
+              "path": "/bnl/dmpsnhdh/zwhpwp"
+            }
+          ],
+          "path": "/bnl/dmpsnhdh"
+        },
+        {
+          "name": "lmw",
+          "size": 779209,
+          "subdirs": [
+            {
+              "name": "dvv",
+              "size": 216597,
+              "subdirs": [],
+              "path": "/bnl/lmw/dvv"
+            }
+          ],
+          "path": "/bnl/lmw"
+        },
+        {
+          "name": "vgbqbrst",
+          "size": 1177154,
+          "subdirs": [
+            {
+              "name": "jbdtpnw",
+              "size": 27543,
+              "subdirs": [],
+              "path": "/bnl/vgbqbrst/jbdtpnw"
+            },
+            {
+              "name": "rflp",
+              "size": 221045,
+              "subdirs": [],
+              "path": "/bnl/vgbqbrst/rflp"
+            },
+            {
+              "name": "twpq",
+              "size": 92924,
+              "subdirs": [
+                {
+                  "name": "rlbsdj",
+                  "size": 56078,
+                  "subdirs": [],
+                  "path": "/bnl/vgbqbrst/twpq/rlbsdj"
+                }
+              ],
+              "path": "/bnl/vgbqbrst/twpq"
+            }
+          ],
+          "path": "/bnl/vgbqbrst"
+        }
+      ],
+      "path": "/bnl"
+    },
+    {
+      "name": "dmpsnhdh",
+      "size": 3192609,
+      "subdirs": [
+        {
+          "name": "fnpwwhtj",
+          "size": 514966,
+          "subdirs": [
+            {
+              "name": "cgp",
+              "size": 514966,
+              "subdirs": [],
+              "path": "/dmpsnhdh/fnpwwhtj/cgp"
+            }
+          ],
+          "path": "/dmpsnhdh/fnpwwhtj"
+        },
+        {
+          "name": "lmw",
+          "size": 2482179,
+          "subdirs": [
+            {
+              "name": "bfbv",
+              "size": 92667,
+              "subdirs": [],
+              "path": "/dmpsnhdh/lmw/bfbv"
+            },
+            {
+              "name": "rrqjwpm",
+              "size": 117064,
+              "subdirs": [],
+              "path": "/dmpsnhdh/lmw/rrqjwpm"
+            },
+            {
+              "name": "sngm",
+              "size": 2215519,
+              "subdirs": [
+                {
+                  "name": "lmw",
+                  "size": 177203,
+                  "subdirs": [
+                    {
+                      "name": "glwr",
+                      "size": 144719,
+                      "subdirs": [],
+                      "path": "/dmpsnhdh/lmw/sngm/lmw/glwr"
+                    }
+                  ],
+                  "path": "/dmpsnhdh/lmw/sngm/lmw"
+                },
+                {
+                  "name": "lqd",
+                  "size": 925297,
+                  "subdirs": [
+                    {
+                      "name": "jnjqmvg",
+                      "size": 104947,
+                      "subdirs": [],
+                      "path": "/dmpsnhdh/lmw/sngm/lqd/jnjqmvg"
+                    },
+                    {
+                      "name": "lmw",
+                      "size": 389245,
+                      "subdirs": [],
+                      "path": "/dmpsnhdh/lmw/sngm/lqd/lmw"
+                    }
+                  ],
+                  "path": "/dmpsnhdh/lmw/sngm/lqd"
+                },
+                {
+                  "name": "szn",
+                  "size": 197974,
+                  "subdirs": [],
+                  "path": "/dmpsnhdh/lmw/sngm/szn"
+                }
+              ],
+              "path": "/dmpsnhdh/lmw/sngm"
+            }
+          ],
+          "path": "/dmpsnhdh/lmw"
+        }
+      ],
+      "path": "/dmpsnhdh"
+    },
+    {
+      "name": "fcnqg",
+      "size": 769565,
+      "subdirs": [],
+      "path": "/fcnqg"
+    },
+    {
+      "name": "jvwtm",
+      "size": 8509877,
+      "subdirs": [
+        {
+          "name": "dmpsnhdh",
+          "size": 1375783,
+          "subdirs": [
+            {
+              "name": "llhp",
+              "size": 180255,
+              "subdirs": [],
+              "path": "/jvwtm/dmpsnhdh/llhp"
+            },
+            {
+              "name": "mnsbh",
+              "size": 267627,
+              "subdirs": [],
+              "path": "/jvwtm/dmpsnhdh/mnsbh"
+            },
+            {
+              "name": "mpplsfjp",
+              "size": 476965,
+              "subdirs": [
+                {
+                  "name": "bnl",
+                  "size": 243223,
+                  "subdirs": [],
+                  "path": "/jvwtm/dmpsnhdh/mpplsfjp/bnl"
+                }
+              ],
+              "path": "/jvwtm/dmpsnhdh/mpplsfjp"
+            }
+          ],
+          "path": "/jvwtm/dmpsnhdh"
+        },
+        {
+          "name": "tlr",
+          "size": 1219467,
+          "subdirs": [
+            {
+              "name": "vcsngm",
+              "size": 36434,
+              "subdirs": [],
+              "path": "/jvwtm/tlr/vcsngm"
+            },
+            {
+              "name": "wndmt",
+              "size": 1183033,
+              "subdirs": [
+                {
+                  "name": "fvmtfcqd",
+                  "size": 237025,
+                  "subdirs": [],
+                  "path": "/jvwtm/tlr/wndmt/fvmtfcqd"
+                },
+                {
+                  "name": "nvdb",
+                  "size": 338644,
+                  "subdirs": [],
+                  "path": "/jvwtm/tlr/wndmt/nvdb"
+                },
+                {
+                  "name": "nwqqgl",
+                  "size": 337354,
+                  "subdirs": [
+                    {
+                      "name": "cljbrh",
+                      "size": 133820,
+                      "subdirs": [],
+                      "path": "/jvwtm/tlr/wndmt/nwqqgl/cljbrh"
+                    }
+                  ],
+                  "path": "/jvwtm/tlr/wndmt/nwqqgl"
+                },
+                {
+                  "name": "sbspgnpm",
+                  "size": 270010,
+                  "subdirs": [],
+                  "path": "/jvwtm/tlr/wndmt/sbspgnpm"
+                }
+              ],
+              "path": "/jvwtm/tlr/wndmt"
+            }
+          ],
+          "path": "/jvwtm/tlr"
+        },
+        {
+          "name": "twpq",
+          "size": 1226742,
+          "subdirs": [
+            {
+              "name": "dmpsnhdh",
+              "size": 575779,
+              "subdirs": [],
+              "path": "/jvwtm/twpq/dmpsnhdh"
+            },
+            {
+              "name": "hbchdjjp",
+              "size": 301016,
+              "subdirs": [],
+              "path": "/jvwtm/twpq/hbchdjjp"
+            }
+          ],
+          "path": "/jvwtm/twpq"
+        },
+        {
+          "name": "wbgcsw",
+          "size": 3609909,
+          "subdirs": [
+            {
+              "name": "bnl",
+              "size": 1615223,
+              "subdirs": [
+                {
+                  "name": "fbbr",
+                  "size": 84414,
+                  "subdirs": [],
+                  "path": "/jvwtm/wbgcsw/bnl/fbbr"
+                },
+                {
+                  "name": "mzfrdl",
+                  "size": 625824,
+                  "subdirs": [
+                    {
+                      "name": "cjdptqgh",
+                      "size": 159918,
+                      "subdirs": [],
+                      "path": "/jvwtm/wbgcsw/bnl/mzfrdl/cjdptqgh"
+                    },
+                    {
+                      "name": "hwdnrqns",
+                      "size": 254432,
+                      "subdirs": [
+                        {
+                          "name": "dmpsnhdh",
+                          "size": 254432,
+                          "subdirs": [],
+                          "path": "/jvwtm/wbgcsw/bnl/mzfrdl/hwdnrqns/dmpsnhdh"
+                        }
+                      ],
+                      "path": "/jvwtm/wbgcsw/bnl/mzfrdl/hwdnrqns"
+                    },
+                    {
+                      "name": "prq",
+                      "size": 75827,
+                      "subdirs": [],
+                      "path": "/jvwtm/wbgcsw/bnl/mzfrdl/prq"
+                    }
+                  ],
+                  "path": "/jvwtm/wbgcsw/bnl/mzfrdl"
+                },
+                {
+                  "name": "tqgrdz",
+                  "size": 251475,
+                  "subdirs": [],
+                  "path": "/jvwtm/wbgcsw/bnl/tqgrdz"
+                },
+                {
+                  "name": "ztrnq",
+                  "size": 387873,
+                  "subdirs": [],
+                  "path": "/jvwtm/wbgcsw/bnl/ztrnq"
+                }
+              ],
+              "path": "/jvwtm/wbgcsw/bnl"
+            },
+            {
+              "name": "bqq",
+              "size": 202201,
+              "subdirs": [],
+              "path": "/jvwtm/wbgcsw/bqq"
+            },
+            {
+              "name": "ctnlpgt",
+              "size": 269484,
+              "subdirs": [],
+              "path": "/jvwtm/wbgcsw/ctnlpgt"
+            },
+            {
+              "name": "hbqm",
+              "size": 117203,
+              "subdirs": [],
+              "path": "/jvwtm/wbgcsw/hbqm"
+            },
+            {
+              "name": "zqmjwsgz",
+              "size": 146194,
+              "subdirs": [],
+              "path": "/jvwtm/wbgcsw/zqmjwsgz"
+            },
+            {
+              "name": "zwwphs",
+              "size": 209587,
+              "subdirs": [],
+              "path": "/jvwtm/wbgcsw/zwwphs"
+            }
+          ],
+          "path": "/jvwtm/wbgcsw"
+        },
+        {
+          "name": "zjmldjdh",
+          "size": 1030017,
+          "subdirs": [
+            {
+              "name": "cdq",
+              "size": 289173,
+              "subdirs": [],
+              "path": "/jvwtm/zjmldjdh/cdq"
+            },
+            {
+              "name": "mdclfbs",
+              "size": 404395,
+              "subdirs": [
+                {
+                  "name": "hpdgt",
+                  "size": 107421,
+                  "subdirs": [],
+                  "path": "/jvwtm/zjmldjdh/mdclfbs/hpdgt"
+                }
+              ],
+              "path": "/jvwtm/zjmldjdh/mdclfbs"
+            },
+            {
+              "name": "tfc",
+              "size": 204406,
+              "subdirs": [],
+              "path": "/jvwtm/zjmldjdh/tfc"
+            }
+          ],
+          "path": "/jvwtm/zjmldjdh"
+        }
+      ],
+      "path": "/jvwtm"
+    },
+    {
+      "name": "ldztz",
+      "size": 978231,
+      "subdirs": [
+        {
+          "name": "dmpsnhdh",
+          "size": 524132,
+          "subdirs": [],
+          "path": "/ldztz/dmpsnhdh"
+        },
+        {
+          "name": "lbqgz",
+          "size": 171931,
+          "subdirs": [],
+          "path": "/ldztz/lbqgz"
+        },
+        {
+          "name": "znrnj",
+          "size": 153738,
+          "subdirs": [],
+          "path": "/ldztz/znrnj"
+        }
+      ],
+      "path": "/ldztz"
+    },
+    {
+      "name": "lmmw",
+      "size": 1507116,
+      "subdirs": [
+        {
+          "name": "bqqnsfdj",
+          "size": 1008403,
+          "subdirs": [
+            {
+              "name": "bnl",
+              "size": 808144,
+              "subdirs": [
+                {
+                  "name": "lmw",
+                  "size": 156532,
+                  "subdirs": [
+                    {
+                      "name": "sfj",
+                      "size": 156532,
+                      "subdirs": [],
+                      "path": "/lmmw/bqqnsfdj/bnl/lmw/sfj"
+                    }
+                  ],
+                  "path": "/lmmw/bqqnsfdj/bnl/lmw"
+                },
+                {
+                  "name": "nqw",
+                  "size": 59928,
+                  "subdirs": [],
+                  "path": "/lmmw/bqqnsfdj/bnl/nqw"
+                }
+              ],
+              "path": "/lmmw/bqqnsfdj/bnl"
+            },
+            {
+              "name": "tlnbvhdl",
+              "size": 183301,
+              "subdirs": [],
+              "path": "/lmmw/bqqnsfdj/tlnbvhdl"
+            }
+          ],
+          "path": "/lmmw/bqqnsfdj"
+        },
+        {
+          "name": "rlpcqtzg",
+          "size": 258638,
+          "subdirs": [],
+          "path": "/lmmw/rlpcqtzg"
+        }
+      ],
+      "path": "/lmmw"
+    },
+    {
+      "name": "wthvqw",
+      "size": 224501,
+      "subdirs": [],
+      "path": "/wthvqw"
+    },
+    {
+      "name": "zpdnprb",
+      "size": 20646114,
+      "subdirs": [
+        {
+          "name": "bnl",
+          "size": 520152,
+          "subdirs": [
+            {
+              "name": "pnzmp",
+              "size": 236287,
+              "subdirs": [
+                {
+                  "name": "btbtlrs",
+                  "size": 107651,
+                  "subdirs": [],
+                  "path": "/zpdnprb/bnl/pnzmp/btbtlrs"
+                }
+              ],
+              "path": "/zpdnprb/bnl/pnzmp"
+            }
+          ],
+          "path": "/zpdnprb/bnl"
+        },
+        {
+          "name": "ffg",
+          "size": 57918,
+          "subdirs": [],
+          "path": "/zpdnprb/ffg"
+        },
+        {
+          "name": "jljlwpsv",
+          "size": 346425,
+          "subdirs": [],
+          "path": "/zpdnprb/jljlwpsv"
+        },
+        {
+          "name": "rrqjwpm",
+          "size": 9290252,
+          "subdirs": [
+            {
+              "name": "bftw",
+              "size": 1561114,
+              "subdirs": [
+                {
+                  "name": "brl",
+                  "size": 297937,
+                  "subdirs": [],
+                  "path": "/zpdnprb/rrqjwpm/bftw/brl"
+                },
+                {
+                  "name": "lmw",
+                  "size": 166695,
+                  "subdirs": [],
+                  "path": "/zpdnprb/rrqjwpm/bftw/lmw"
+                },
+                {
+                  "name": "rrqjwpm",
+                  "size": 198762,
+                  "subdirs": [],
+                  "path": "/zpdnprb/rrqjwpm/bftw/rrqjwpm"
+                },
+                {
+                  "name": "twpq",
+                  "size": 141835,
+                  "subdirs": [],
+                  "path": "/zpdnprb/rrqjwpm/bftw/twpq"
+                },
+                {
+                  "name": "vnfhb",
+                  "size": 128626,
+                  "subdirs": [],
+                  "path": "/zpdnprb/rrqjwpm/bftw/vnfhb"
+                },
+                {
+                  "name": "wcldzp",
+                  "size": 285142,
+                  "subdirs": [
+                    {
+                      "name": "ncq",
+                      "size": 133331,
+                      "subdirs": [
+                        {
+                          "name": "wrtw",
+                          "size": 133331,
+                          "subdirs": [],
+                          "path": "/zpdnprb/rrqjwpm/bftw/wcldzp/ncq/wrtw"
+                        }
+                      ],
+                      "path": "/zpdnprb/rrqjwpm/bftw/wcldzp/ncq"
+                    },
+                    {
+                      "name": "twpq",
+                      "size": 151811,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/bftw/wcldzp/twpq"
+                    }
+                  ],
+                  "path": "/zpdnprb/rrqjwpm/bftw/wcldzp"
+                }
+              ],
+              "path": "/zpdnprb/rrqjwpm/bftw"
+            },
+            {
+              "name": "ccsfws",
+              "size": 100548,
+              "subdirs": [],
+              "path": "/zpdnprb/rrqjwpm/ccsfws"
+            },
+            {
+              "name": "wwfgbzqh",
+              "size": 7050334,
+              "subdirs": [
+                {
+                  "name": "lmw",
+                  "size": 2864435,
+                  "subdirs": [
+                    {
+                      "name": "bgl",
+                      "size": 2423491,
+                      "subdirs": [
+                        {
+                          "name": "lmw",
+                          "size": 233655,
+                          "subdirs": [],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/lmw"
+                        },
+                        {
+                          "name": "rrqjwpm",
+                          "size": 2189836,
+                          "subdirs": [
+                            {
+                              "name": "hsvnmlp",
+                              "size": 264517,
+                              "subdirs": [],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm/hsvnmlp"
+                            },
+                            {
+                              "name": "nsch",
+                              "size": 714999,
+                              "subdirs": [
+                                {
+                                  "name": "lmw",
+                                  "size": 69572,
+                                  "subdirs": [],
+                                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm/nsch/lmw"
+                                },
+                                {
+                                  "name": "sgjsg",
+                                  "size": 38856,
+                                  "subdirs": [],
+                                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm/nsch/sgjsg"
+                                }
+                              ],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm/nsch"
+                            },
+                            {
+                              "name": "qlgg",
+                              "size": 276013,
+                              "subdirs": [],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm/qlgg"
+                            },
+                            {
+                              "name": "twpq",
+                              "size": 370831,
+                              "subdirs": [],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm/twpq"
+                            }
+                          ],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl/rrqjwpm"
+                        }
+                      ],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/bgl"
+                    },
+                    {
+                      "name": "jqthwzj",
+                      "size": 128200,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw/jqthwzj"
+                    }
+                  ],
+                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/lmw"
+                },
+                {
+                  "name": "mfms",
+                  "size": 641673,
+                  "subdirs": [
+                    {
+                      "name": "rmwtvjt",
+                      "size": 74490,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/mfms/rmwtvjt"
+                    }
+                  ],
+                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/mfms"
+                },
+                {
+                  "name": "pjbjgbcl",
+                  "size": 1510920,
+                  "subdirs": [
+                    {
+                      "name": "cswvftzs",
+                      "size": 545967,
+                      "subdirs": [
+                        {
+                          "name": "dchqnbns",
+                          "size": 94111,
+                          "subdirs": [],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/cswvftzs/dchqnbns"
+                        },
+                        {
+                          "name": "smf",
+                          "size": 451856,
+                          "subdirs": [
+                            {
+                              "name": "dlnsgvl",
+                              "size": 156473,
+                              "subdirs": [
+                                {
+                                  "name": "dsz",
+                                  "size": 156473,
+                                  "subdirs": [],
+                                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/cswvftzs/smf/dlnsgvl/dsz"
+                                }
+                              ],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/cswvftzs/smf/dlnsgvl"
+                            },
+                            {
+                              "name": "zglt",
+                              "size": 295383,
+                              "subdirs": [],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/cswvftzs/smf/zglt"
+                            }
+                          ],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/cswvftzs/smf"
+                        }
+                      ],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/cswvftzs"
+                    },
+                    {
+                      "name": "jtvtg",
+                      "size": 260673,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/jtvtg"
+                    },
+                    {
+                      "name": "lmw",
+                      "size": 8097,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/lmw"
+                    },
+                    {
+                      "name": "tnctbjr",
+                      "size": 368045,
+                      "subdirs": [
+                        {
+                          "name": "gzrcqr",
+                          "size": 117215,
+                          "subdirs": [
+                            {
+                              "name": "fnzgsnv",
+                              "size": 117215,
+                              "subdirs": [],
+                              "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/tnctbjr/gzrcqr/fnzgsnv"
+                            }
+                          ],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/tnctbjr/gzrcqr"
+                        }
+                      ],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/tnctbjr"
+                    },
+                    {
+                      "name": "tqsrfhdr",
+                      "size": 96381,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl/tqsrfhdr"
+                    }
+                  ],
+                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/pjbjgbcl"
+                },
+                {
+                  "name": "wzqbwr",
+                  "size": 1602652,
+                  "subdirs": [
+                    {
+                      "name": "dpbcgfdr",
+                      "size": 1107794,
+                      "subdirs": [
+                        {
+                          "name": "jvn",
+                          "size": 350765,
+                          "subdirs": [],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/wzqbwr/dpbcgfdr/jvn"
+                        },
+                        {
+                          "name": "wzpbbbhm",
+                          "size": 143534,
+                          "subdirs": [],
+                          "path": "/zpdnprb/rrqjwpm/wwfgbzqh/wzqbwr/dpbcgfdr/wzpbbbhm"
+                        }
+                      ],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/wzqbwr/dpbcgfdr"
+                    },
+                    {
+                      "name": "swp",
+                      "size": 131295,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/wzqbwr/swp"
+                    },
+                    {
+                      "name": "zhj",
+                      "size": 200002,
+                      "subdirs": [],
+                      "path": "/zpdnprb/rrqjwpm/wwfgbzqh/wzqbwr/zhj"
+                    }
+                  ],
+                  "path": "/zpdnprb/rrqjwpm/wwfgbzqh/wzqbwr"
+                }
+              ],
+              "path": "/zpdnprb/rrqjwpm/wwfgbzqh"
+            }
+          ],
+          "path": "/zpdnprb/rrqjwpm"
+        },
+        {
+          "name": "twpq",
+          "size": 5296583,
+          "subdirs": [
+            {
+              "name": "bppvlwqs",
+              "size": 474285,
+              "subdirs": [],
+              "path": "/zpdnprb/twpq/bppvlwqs"
+            },
+            {
+              "name": "bvh",
+              "size": 66958,
+              "subdirs": [
+                {
+                  "name": "lmw",
+                  "size": 66958,
+                  "subdirs": [],
+                  "path": "/zpdnprb/twpq/bvh/lmw"
+                }
+              ],
+              "path": "/zpdnprb/twpq/bvh"
+            },
+            {
+              "name": "rmcdr",
+              "size": 3617232,
+              "subdirs": [
+                {
+                  "name": "dmpsnhdh",
+                  "size": 515068,
+                  "subdirs": [
+                    {
+                      "name": "rrqjwpm",
+                      "size": 326594,
+                      "subdirs": [
+                        {
+                          "name": "bnl",
+                          "size": 245600,
+                          "subdirs": [],
+                          "path": "/zpdnprb/twpq/rmcdr/dmpsnhdh/rrqjwpm/bnl"
+                        },
+                        {
+                          "name": "lmw",
+                          "size": 73396,
+                          "subdirs": [],
+                          "path": "/zpdnprb/twpq/rmcdr/dmpsnhdh/rrqjwpm/lmw"
+                        }
+                      ],
+                      "path": "/zpdnprb/twpq/rmcdr/dmpsnhdh/rrqjwpm"
+                    }
+                  ],
+                  "path": "/zpdnprb/twpq/rmcdr/dmpsnhdh"
+                },
+                {
+                  "name": "pmrdhrth",
+                  "size": 351685,
+                  "subdirs": [],
+                  "path": "/zpdnprb/twpq/rmcdr/pmrdhrth"
+                },
+                {
+                  "name": "zbmcrvbh",
+                  "size": 2227079,
+                  "subdirs": [
+                    {
+                      "name": "lmw",
+                      "size": 1438328,
+                      "subdirs": [
+                        {
+                          "name": "bbbll",
+                          "size": 635197,
+                          "subdirs": [],
+                          "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh/lmw/bbbll"
+                        },
+                        {
+                          "name": "mlz",
+                          "size": 115167,
+                          "subdirs": [],
+                          "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh/lmw/mlz"
+                        }
+                      ],
+                      "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh/lmw"
+                    },
+                    {
+                      "name": "qfrvdm",
+                      "size": 284564,
+                      "subdirs": [],
+                      "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh/qfrvdm"
+                    },
+                    {
+                      "name": "rcg",
+                      "size": 116435,
+                      "subdirs": [
+                        {
+                          "name": "sqzjz",
+                          "size": 116435,
+                          "subdirs": [],
+                          "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh/rcg/sqzjz"
+                        }
+                      ],
+                      "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh/rcg"
+                    }
+                  ],
+                  "path": "/zpdnprb/twpq/rmcdr/zbmcrvbh"
+                }
+              ],
+              "path": "/zpdnprb/twpq/rmcdr"
+            },
+            {
+              "name": "tdn",
+              "size": 764730,
+              "subdirs": [
+                {
+                  "name": "pstpclp",
+                  "size": 354281,
+                  "subdirs": [],
+                  "path": "/zpdnprb/twpq/tdn/pstpclp"
+                }
+              ],
+              "path": "/zpdnprb/twpq/tdn"
+            },
+            {
+              "name": "wwtwnvh",
+              "size": 371148,
+              "subdirs": [],
+              "path": "/zpdnprb/twpq/wwtwnvh"
+            }
+          ],
+          "path": "/zpdnprb/twpq"
+        },
+        {
+          "name": "vlgsrtm",
+          "size": 4922703,
+          "subdirs": [
+            {
+              "name": "dmpsnhdh",
+              "size": 459053,
+              "subdirs": [
+                {
+                  "name": "lltnrdtv",
+                  "size": 270424,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/dmpsnhdh/lltnrdtv"
+                },
+                {
+                  "name": "scthsg",
+                  "size": 188629,
+                  "subdirs": [
+                    {
+                      "name": "rrqjwpm",
+                      "size": 188629,
+                      "subdirs": [],
+                      "path": "/zpdnprb/vlgsrtm/dmpsnhdh/scthsg/rrqjwpm"
+                    }
+                  ],
+                  "path": "/zpdnprb/vlgsrtm/dmpsnhdh/scthsg"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/dmpsnhdh"
+            },
+            {
+              "name": "fjsglr",
+              "size": 253602,
+              "subdirs": [
+                {
+                  "name": "pnsjwfzc",
+                  "size": 113848,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/fjsglr/pnsjwfzc"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/fjsglr"
+            },
+            {
+              "name": "lmw",
+              "size": 1188146,
+              "subdirs": [
+                {
+                  "name": "ffhcf",
+                  "size": 40478,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/lmw/ffhcf"
+                },
+                {
+                  "name": "jpgqspqw",
+                  "size": 22181,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/lmw/jpgqspqw"
+                },
+                {
+                  "name": "pfsjwmbc",
+                  "size": 225892,
+                  "subdirs": [
+                    {
+                      "name": "bcvchw",
+                      "size": 225892,
+                      "subdirs": [],
+                      "path": "/zpdnprb/vlgsrtm/lmw/pfsjwmbc/bcvchw"
+                    }
+                  ],
+                  "path": "/zpdnprb/vlgsrtm/lmw/pfsjwmbc"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/lmw"
+            },
+            {
+              "name": "lqgrft",
+              "size": 1469401,
+              "subdirs": [
+                {
+                  "name": "rrqjwpm",
+                  "size": 57839,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/lqgrft/rrqjwpm"
+                },
+                {
+                  "name": "twpq",
+                  "size": 1411562,
+                  "subdirs": [
+                    {
+                      "name": "lmw",
+                      "size": 521518,
+                      "subdirs": [
+                        {
+                          "name": "lmw",
+                          "size": 139640,
+                          "subdirs": [],
+                          "path": "/zpdnprb/vlgsrtm/lqgrft/twpq/lmw/lmw"
+                        },
+                        {
+                          "name": "lngbszqm",
+                          "size": 381878,
+                          "subdirs": [],
+                          "path": "/zpdnprb/vlgsrtm/lqgrft/twpq/lmw/lngbszqm"
+                        }
+                      ],
+                      "path": "/zpdnprb/vlgsrtm/lqgrft/twpq/lmw"
+                    },
+                    {
+                      "name": "mhgqt",
+                      "size": 208165,
+                      "subdirs": [],
+                      "path": "/zpdnprb/vlgsrtm/lqgrft/twpq/mhgqt"
+                    }
+                  ],
+                  "path": "/zpdnprb/vlgsrtm/lqgrft/twpq"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/lqgrft"
+            },
+            {
+              "name": "rmdp",
+              "size": 337538,
+              "subdirs": [
+                {
+                  "name": "bqn",
+                  "size": 75628,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/rmdp/bqn"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/rmdp"
+            },
+            {
+              "name": "vgjzqjpq",
+              "size": 273695,
+              "subdirs": [
+                {
+                  "name": "bnl",
+                  "size": 25911,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/vgjzqjpq/bnl"
+                },
+                {
+                  "name": "wpfw",
+                  "size": 247784,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/vgjzqjpq/wpfw"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/vgjzqjpq"
+            },
+            {
+              "name": "ztnqnfnq",
+              "size": 356707,
+              "subdirs": [
+                {
+                  "name": "dtpzsrfc",
+                  "size": 142652,
+                  "subdirs": [],
+                  "path": "/zpdnprb/vlgsrtm/ztnqnfnq/dtpzsrfc"
+                }
+              ],
+              "path": "/zpdnprb/vlgsrtm/ztnqnfnq"
+            }
+          ],
+          "path": "/zpdnprb/vlgsrtm"
+        }
+      ],
+      "path": "/zpdnprb"
+    }
+  ],
+  "path": ""
+}

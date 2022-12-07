@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      sendToEmbed = () => {
+        fetch("out.json")
+          .then((res) => res.json())
+          .then((json) => {
+            document
+              .getElementById("jsoncrackEmbed")
+              .contentWindow.postMessage({ json: JSON.stringify(json) }, "*");
+          });
+      };
+    </script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        background-color: #141414;
+      }
+      #jsoncrackEmbed {
+        width: 100%;
+        height: 100vh;
+        border-radius: 6px;
+      }
+    </style>
+
+    <iframe
+      id="jsoncrackEmbed"
+      onload="sendToEmbed()"
+      src="https://jsoncrack.com/widget?t=1"
+    ></iframe>
+  </body>
+</html>
