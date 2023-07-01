@@ -1,1 +1,169 @@
-{"members":{"2920798":{"local_score":4,"global_score":0,"name":"Moses","completion_day_level":{"1":{"2":{"get_star_ts":1671722776,"star_index":3428711},"1":{"star_index":3426035,"get_star_ts":1671719228}}},"last_star_ts":1671722776,"stars":2,"id":2920798},"2492104":{"id":2492104,"completion_day_level":{"1":{"1":{"star_index":32904,"get_star_ts":1669932462},"2":{"star_index":33223,"get_star_ts":1669932570}},"4":{"2":{"star_index":1222419,"get_star_ts":1670288218},"1":{"star_index":1222305,"get_star_ts":1670288142}},"5":{"1":{"star_index":2400284,"get_star_ts":1670765802},"2":{"get_star_ts":1670766917,"star_index":2402782}},"3":{"2":{"star_index":1092584,"get_star_ts":1670250684},"1":{"get_star_ts":1670249776,"star_index":1089029}},"2":{"2":{"star_index":342853,"get_star_ts":1670017852},"1":{"star_index":280889,"get_star_ts":1669998773}}},"last_star_ts":1670766917,"stars":10,"global_score":0,"local_score":30,"name":"Piya Gehi"},"937853":{"local_score":0,"name":"grokkingStuff","global_score":0,"stars":0,"last_star_ts":0,"completion_day_level":{},"id":937853},"2473134":{"id":2473134,"name":"Gaurav Gosain","local_score":200,"global_score":0,"stars":50,"last_star_ts":1671946734,"completion_day_level":{"6":{"2":{"get_star_ts":1670303039,"star_index":1243489},"1":{"get_star_ts":1670303018,"star_index":1243050}},"12":{"2":{"get_star_ts":1670823395,"star_index":2502622},"1":{"get_star_ts":1670823227,"star_index":2502102}},"25":{"1":{"get_star_ts":1671946713,"star_index":3561891},"2":{"get_star_ts":1671946734,"star_index":3561930}},"3":{"1":{"get_star_ts":1670046454,"star_index":406516},"2":{"star_index":408433,"get_star_ts":1670046813}},"24":{"1":{"star_index":3516517,"get_star_ts":1671860654},"2":{"get_star_ts":1671860660,"star_index":3516524}},"7":{"2":{"get_star_ts":1670395347,"star_index":1564343},"1":{"star_index":1562596,"get_star_ts":1670394845}},"2":{"1":{"get_star_ts":1669958029,"star_index":78884},"2":{"get_star_ts":1669958598,"star_index":87364}},"16":{"2":{"get_star_ts":1671177785,"star_index":2997138},"1":{"get_star_ts":1671176444,"star_index":2996089}},"5":{"2":{"star_index":947227,"get_star_ts":1670217646},"1":{"get_star_ts":1670217560,"star_index":946470}},"18":{"1":{"get_star_ts":1671341456,"star_index":3133345},"2":{"star_index":3133466,"get_star_ts":1671341511}},"9":{"1":{"star_index":1985474,"get_star_ts":1670564326},"2":{"star_index":1986804,"get_star_ts":1670564605}},"19":{"2":{"star_index":3292842,"get_star_ts":1671543030},"1":{"star_index":3292831,"get_star_ts":1671543020}},"14":{"2":{"star_index":2772138,"get_star_ts":1670995423},"1":{"star_index":2771971,"get_star_ts":1670995380}},"11":{"2":{"get_star_ts":1670737480,"star_index":2338955},"1":{"get_star_ts":1670737474,"star_index":2338927}},"8":{"2":{"get_star_ts":1670479842,"star_index":1782535},"1":{"get_star_ts":1670477169,"star_index":1767629}},"13":{"1":{"get_star_ts":1670909576,"star_index":2647512},"2":{"star_index":2649999,"get_star_ts":1670910391}},"20":{"2":{"get_star_ts":1671543165,"star_index":3292952},"1":{"get_star_ts":1671543157,"star_index":3292945}},"17":{"1":{"get_star_ts":1671258324,"star_index":3064904},"2":{"get_star_ts":1671258333,"star_index":3064916}},"1":{"1":{"star_index":0,"get_star_ts":1669922342},"2":{"star_index":495,"get_star_ts":1669922497}},"23":{"2":{"get_star_ts":1671817193,"star_index":3493561},"1":{"get_star_ts":1671817183,"star_index":3493554}},"15":{"2":{"star_index":2891892,"get_star_ts":1671083086},"1":{"get_star_ts":1671082582,"star_index":2890627}},"10":{"1":{"get_star_ts":1670651326,"star_index":2170329},"2":{"get_star_ts":1670651411,"star_index":2170681}},"22":{"2":{"star_index":3425967,"get_star_ts":1671719132},"1":{"star_index":3425960,"get_star_ts":1671719120}},"4":{"1":{"star_index":656662,"get_star_ts":1670130527},"2":{"star_index":657126,"get_star_ts":1670130551}},"21":{"2":{"star_index":3378828,"get_star_ts":1671645204},"1":{"get_star_ts":1671645192,"star_index":3378817}}}}},"owner_id":2473134,"event":"2022"}
+{
+  "members": {
+    "2920798": {
+      "local_score": 4,
+      "global_score": 0,
+      "name": "Moses",
+      "completion_day_level": {
+        "1": {
+          "2": { "get_star_ts": 1671722776, "star_index": 3428711 },
+          "1": { "star_index": 3426035, "get_star_ts": 1671719228 }
+        }
+      },
+      "last_star_ts": 1671722776,
+      "stars": 2,
+      "id": 2920798
+    },
+    "2492104": {
+      "id": 2492104,
+      "completion_day_level": {
+        "1": {
+          "1": { "star_index": 32904, "get_star_ts": 1669932462 },
+          "2": { "star_index": 33223, "get_star_ts": 1669932570 }
+        },
+        "4": {
+          "2": { "star_index": 1222419, "get_star_ts": 1670288218 },
+          "1": { "star_index": 1222305, "get_star_ts": 1670288142 }
+        },
+        "5": {
+          "1": { "star_index": 2400284, "get_star_ts": 1670765802 },
+          "2": { "get_star_ts": 1670766917, "star_index": 2402782 }
+        },
+        "3": {
+          "2": { "star_index": 1092584, "get_star_ts": 1670250684 },
+          "1": { "get_star_ts": 1670249776, "star_index": 1089029 }
+        },
+        "2": {
+          "2": { "star_index": 342853, "get_star_ts": 1670017852 },
+          "1": { "star_index": 280889, "get_star_ts": 1669998773 }
+        }
+      },
+      "last_star_ts": 1670766917,
+      "stars": 10,
+      "global_score": 0,
+      "local_score": 30,
+      "name": "Piya Gehi"
+    },
+    "937853": {
+      "local_score": 0,
+      "name": "grokkingStuff",
+      "global_score": 0,
+      "stars": 0,
+      "last_star_ts": 0,
+      "completion_day_level": {},
+      "id": 937853
+    },
+    "2473134": {
+      "id": 2473134,
+      "name": "Gaurav Gosain",
+      "local_score": 200,
+      "global_score": 0,
+      "stars": 50,
+      "last_star_ts": 1671946734,
+      "completion_day_level": {
+        "6": {
+          "2": { "get_star_ts": 1670303039, "star_index": 1243489 },
+          "1": { "get_star_ts": 1670303018, "star_index": 1243050 }
+        },
+        "12": {
+          "2": { "get_star_ts": 1670823395, "star_index": 2502622 },
+          "1": { "get_star_ts": 1670823227, "star_index": 2502102 }
+        },
+        "25": {
+          "1": { "get_star_ts": 1671946713, "star_index": 3561891 },
+          "2": { "get_star_ts": 1671946734, "star_index": 3561930 }
+        },
+        "3": {
+          "1": { "get_star_ts": 1670046454, "star_index": 406516 },
+          "2": { "star_index": 408433, "get_star_ts": 1670046813 }
+        },
+        "24": {
+          "1": { "star_index": 3516517, "get_star_ts": 1671860654 },
+          "2": { "get_star_ts": 1671860660, "star_index": 3516524 }
+        },
+        "7": {
+          "2": { "get_star_ts": 1670395347, "star_index": 1564343 },
+          "1": { "star_index": 1562596, "get_star_ts": 1670394845 }
+        },
+        "2": {
+          "1": { "get_star_ts": 1669958029, "star_index": 78884 },
+          "2": { "get_star_ts": 1669958598, "star_index": 87364 }
+        },
+        "16": {
+          "2": { "get_star_ts": 1671177785, "star_index": 2997138 },
+          "1": { "get_star_ts": 1671176444, "star_index": 2996089 }
+        },
+        "5": {
+          "2": { "star_index": 947227, "get_star_ts": 1670217646 },
+          "1": { "get_star_ts": 1670217560, "star_index": 946470 }
+        },
+        "18": {
+          "1": { "get_star_ts": 1671341456, "star_index": 3133345 },
+          "2": { "star_index": 3133466, "get_star_ts": 1671341511 }
+        },
+        "9": {
+          "1": { "star_index": 1985474, "get_star_ts": 1670564326 },
+          "2": { "star_index": 1986804, "get_star_ts": 1670564605 }
+        },
+        "19": {
+          "2": { "star_index": 3292842, "get_star_ts": 1671543030 },
+          "1": { "star_index": 3292831, "get_star_ts": 1671543020 }
+        },
+        "14": {
+          "2": { "star_index": 2772138, "get_star_ts": 1670995423 },
+          "1": { "star_index": 2771971, "get_star_ts": 1670995380 }
+        },
+        "11": {
+          "2": { "get_star_ts": 1670737480, "star_index": 2338955 },
+          "1": { "get_star_ts": 1670737474, "star_index": 2338927 }
+        },
+        "8": {
+          "2": { "get_star_ts": 1670479842, "star_index": 1782535 },
+          "1": { "get_star_ts": 1670477169, "star_index": 1767629 }
+        },
+        "13": {
+          "1": { "get_star_ts": 1670909576, "star_index": 2647512 },
+          "2": { "star_index": 2649999, "get_star_ts": 1670910391 }
+        },
+        "20": {
+          "2": { "get_star_ts": 1671543165, "star_index": 3292952 },
+          "1": { "get_star_ts": 1671543157, "star_index": 3292945 }
+        },
+        "17": {
+          "1": { "get_star_ts": 1671258324, "star_index": 3064904 },
+          "2": { "get_star_ts": 1671258333, "star_index": 3064916 }
+        },
+        "1": {
+          "1": { "star_index": 0, "get_star_ts": 1669922342 },
+          "2": { "star_index": 495, "get_star_ts": 1669922497 }
+        },
+        "23": {
+          "2": { "get_star_ts": 1671817193, "star_index": 3493561 },
+          "1": { "get_star_ts": 1671817183, "star_index": 3493554 }
+        },
+        "15": {
+          "2": { "star_index": 2891892, "get_star_ts": 1671083086 },
+          "1": { "get_star_ts": 1671082582, "star_index": 2890627 }
+        },
+        "10": {
+          "1": { "get_star_ts": 1670651326, "star_index": 2170329 },
+          "2": { "get_star_ts": 1670651411, "star_index": 2170681 }
+        },
+        "22": {
+          "2": { "star_index": 3425967, "get_star_ts": 1671719132 },
+          "1": { "star_index": 3425960, "get_star_ts": 1671719120 }
+        },
+        "4": {
+          "1": { "star_index": 656662, "get_star_ts": 1670130527 },
+          "2": { "star_index": 657126, "get_star_ts": 1670130551 }
+        },
+        "21": {
+          "2": { "star_index": 3378828, "get_star_ts": 1671645204 },
+          "1": { "get_star_ts": 1671645192, "star_index": 3378817 }
+        }
+      }
+    }
+  },
+  "owner_id": 2473134,
+  "event": "2022"
+}
