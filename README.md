@@ -18,20 +18,20 @@ This repository is a collection of my coding attempts at solving the daily chall
 |                           [Python](./day_9/solution.ipynb)                           | `Day 09` |
 |                          [Python](./day_10/solution.ipynb)                           | `Day 10` |
 |                          [Python](./day_11/solution.ipynb)                           | `Day 11` |
-|                                    Coming Soon...                                    | `Day 12` |
-|                                    Coming Soon...                                    | `Day 13` |
-|                                    Coming Soon...                                    | `Day 14` |
-|                                    Coming Soon...                                    | `Day 15` |
-|                                    Coming Soon...                                    | `Day 16` |
-|                                    Coming Soon...                                    | `Day 17` |
-|                                    Coming Soon...                                    | `Day 18` |
-|                                    Coming Soon...                                    | `Day 19` |
-|                                    Coming Soon...                                    | `Day 20` |
-|                                    Coming Soon...                                    | `Day 21` |
-|                                    Coming Soon...                                    | `Day 22` |
-|                                    Coming Soon...                                    | `Day 23` |
-|                                    Coming Soon...                                    | `Day 24` |
-|                                    Coming Soon...                                    | `Day 25` |
+|                          [Python](./day_12/solution.ipynb)                           | `Day 12` |
+|                          [Python](./day_13/solution.ipynb)                           | `Day 13` |
+|                          [Python](./day_14/solution.ipynb)                           | `Day 14` |
+|                          [Python](./day_15/solution.ipynb)                           | `Day 15` |
+|                          [Python](./day_16/solution.ipynb)                           | `Day 16` |
+|                          [Python](./day_17/solution.ipynb)                           | `Day 17` |
+|                          [Python](./day_18/solution.ipynb)                           | `Day 18` |
+|                          [Python](./day_19/solution.ipynb)                           | `Day 19` |
+|                          [Python](./day_20/solution.ipynb)                           | `Day 20` |
+|                          [Python](./day_21/solution.ipynb)                           | `Day 21` |
+|                          [Python](./day_22/solution.ipynb)                           | `Day 22` |
+|                          [Python](./day_23/solution.ipynb)                           | `Day 23` |
+|                          [Python](./day_24/solution.ipynb)                           | `Day 24` |
+|                          [Python](./day_25/solution.ipynb)                           | `Day 25` |
 
 ### Code to join the Heriot-Watt Universities Tech Club leaderboard          
 > # ```2473134-d6bfe471```
