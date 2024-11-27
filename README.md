@@ -38,9 +38,9 @@ This repository is a collection of my coding attempts at solving the daily chall
 
 ### Leaderboard
 
-<a href="https://gaurav-gosain.github.io/Advent-Of-Code-2022/leaderboard" target="_blank">Link to Leaderboard (JSON)</a>
+<a href="https://aoc2022.gaurav.zip/leaderboard" target="_blank">Link to Leaderboard (JSON)</a>
 
-<a href="https://gaurav-gosain.github.io/Advent-Of-Code-2022/day_7/viz" target="_blank">Link to Visualization for Day 7 👀</a>
+<a href="https://aoc2022.gaurav.zip/day_7/viz" target="_blank">Link to Visualization for Day 7 👀</a>
 
 <img src="dub.svg" width="800px" height="800px">
 
